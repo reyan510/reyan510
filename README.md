@@ -25,11 +25,15 @@
 
 - ⚡ Fun fact **I am good at boxing**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/reyan war" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reyan war" height="30" width="40" /></a>
+<a href="https://twitter.com/war_reyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="war_reyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/reyan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyan ahmad" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@riyanwarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@riyanwarr" height="30" width="40" /></a>
+<a href="https://medium.com/@riyanwarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@riyanwarr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
